@@ -1,0 +1,6 @@
+venv
+__pycache__
+basic_gemini_api.py
+response_cache.json
+ttc.py
+
