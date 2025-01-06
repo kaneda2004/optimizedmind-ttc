@@ -22,8 +22,11 @@ This project was inspired by groundbreaking research demonstrating that optimizi
 - **Dynamic Difficulty Assessment**: Estimates query complexity to optimize processing strategy
 - **Adaptive Processing**: Combines parallel and sequential generations based on query type and difficulty
 - **Smart Evaluation**: Type-specific evaluation criteria for different kinds of queries
-- **Real-time Analytics**: Tracks token usage, processing time, and response quality
-- **Rich Console Interface**: Beautiful command-line interface with real-time status updates
+- **Comprehensive Verification**: New pipeline for mathematical and logical analysis of responses
+- **Cross-validation**: Comparison and validation between multiple responses
+- **Dynamic Budget Management**: Adjusts computation budget based on response quality
+- **Enhanced Analytics**: Detailed token usage tracking and performance metrics
+- **Rich Console Interface**: Beautiful command-line interface with real-time status updates and progress tracking
 
 ## Processing Example
 
@@ -88,9 +91,12 @@ You can then:
    - Generates responses in parallel and sequence
    - Adapts generation parameters based on query type
    - Uses previous responses to improve subsequent generations
+   - Implements dynamic budget allocation based on response quality
 
-3. **Evaluation**:
-   - Applies type-specific evaluation criteria
+3. **Verification & Evaluation**:
+   - Applies comprehensive verification pipeline
+   - Performs mathematical and logical analysis
+   - Cross-validates multiple responses
    - Ranks responses based on quality metrics
    - Selects and formats the best response
 
@@ -98,6 +104,8 @@ You can then:
    - Tracks token usage and costs
    - Measures processing time
    - Provides detailed performance metrics
+   - Generates verification reports
+   - Logs system behavior for analysis
 
 ## Join the DIY AI Movement!
 

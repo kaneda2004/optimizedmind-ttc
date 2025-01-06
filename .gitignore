@@ -3,4 +3,7 @@ __pycache__
 basic_gemini_api.py
 response_cache.json
 ttc.py
-
+*.log
+usage_stats.csv
+verification_metrics.csv
+ttc_deepseek.py

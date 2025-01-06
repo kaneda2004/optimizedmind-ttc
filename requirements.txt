@@ -1,2 +1,5 @@
-openai
-rich
+openai>=1.0.0
+rich>=13.0.0
+pandas>=2.0.0
+asyncio>=3.4.3
+typing>=3.7.4
